@@ -1,0 +1,114 @@
+{
+    "data": {
+        "type": "survivalMasterySummary",
+        "id": "account.a164c65de7bd46f3a0101d4b8ad4a626",
+        "attributes": {
+            "totalMatchesPlayed": 1499,
+            "stats": {
+                "airDropsCalled": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "damageDealt": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "damageTaken": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 100
+                },
+                "distanceBySwimming": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "distanceByVehicle": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "distanceOnFoot": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 226.90455627441406
+                },
+                "distanceTotal": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 226.90455627441406
+                },
+                "healed": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "hotDropLandings": {
+                    "total": 0
+                },
+                "enemyCratesLooted": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "uniqueItemsLooted": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 22
+                },
+                "position": {
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 16
+                },
+                "revived": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "teammatesRevived": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "timeSurvived": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 295
+                },
+                "throwablesThrown": {
+                    "total": 0,
+                    "average": 0,
+                    "careerBest": 0,
+                    "lastMatchValue": 0
+                },
+                "top10": {
+                    "total": 0
+                }
+            },
+            "xp": 889914,
+            "tier": 1,
+            "level": 495,
+            "lastMatchId": "90cc5f77-5d9a-4473-88b4-e55659120632"
+        }
+    },
+    "links": {
+        "self": "https://api.pubg.com/shards/kakao/players/account.a164c65de7bd46f3a0101d4b8ad4a626/survival_mastery"
+    },
+    "meta": {}
+}

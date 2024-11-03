@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "type": "player",
+            "id": "account.2e66f4587ca7483fba08dc7eeea5c5cf",
+            "attributes": {
+                "shardId": "kakao",
+                "patchVersion": "",
+                "banType": "Innocent",
+                "clanId": "clan.96147d243bf044eda155a5e04fe91173",
+                "name": "kakaochin9",
+                "stats": null,
+                "titleId": "pubg"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                },
+                "matches": {
+                    "data": [
+                        {
+                            "type": "match",
+                            "id": "b614ec6c-3bf1-405b-aca7-2ed5f7a12a6b"
+                        },
+                        {
+                            "type": "match",
+                            "id": "6d9d9868-023b-466b-8477-80c6cb21e0e0"
+                        },
+                        {
+                            "type": "match",
+                            "id": "e5429144-bb54-4f75-b763-f74e7452bbb7"
+                        },
+                        {
+                            "type": "match",
+                            "id": "6dc8c161-e400-4ac1-a977-5f93e68fde9f"
+                        },
+                        {
+                            "type": "match",
+                            "id": "8edc0906-b19e-47e9-ad3f-a3b129007aed"
+                        },
+                        {
+                            "type": "match",
+                            "id": "4bdf0505-bd77-4615-8f57-375cedaa05ed"
+                        },
+                        {
+                            "type": "match",
+                            "id": "f979ddd0-9c81-4866-8aad-e39c4e536156"
+                        },
+                        {
+                            "type": "match",
+                            "id": "12a613d1-e9c6-453e-98a3-8eaed9aedc50"
+                        },
+                        {
+                            "type": "match",
+                            "id": "2c5c1a66-9915-4744-a494-1e90c6d18415"
+                        },
+                        {
+                            "type": "match",
+                            "id": "85c346fd-598e-44ea-93e7-2ccd63723e1e"
+                        },
+                        {
+                            "type": "match",
+                            "id": "7d9916a6-517e-4801-b055-c1ad22aec3a9"
+                        },
+                        {
+                            "type": "match",
+                            "id": "485e134a-6b57-484f-8970-751cdd318278"
+                        },
+                        {
+                            "type": "match",
+                            "id": "3b941191-ed98-44d9-97a0-ae817785e51c"
+                        },
+                        {
+                            "type": "match",
+                            "id": "3e31101d-18e3-4e12-a2ba-25ddcc1717e4"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "schema": "",
+                "self": "https://api.pubg.com/shards/kakao/players/account.2e66f4587ca7483fba08dc7eeea5c5cf"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.pubg.com/shards/kakao/players?filter[playerNames]=kakaochin9"
+    },
+    "meta": {}
+}

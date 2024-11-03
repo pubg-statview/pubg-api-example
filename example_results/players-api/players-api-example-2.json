@@ -1,0 +1,214 @@
+{
+    "data": [
+        {
+            "type": "player",
+            "id": "account.a164c65de7bd46f3a0101d4b8ad4a626",
+            "attributes": {
+                "name": "Lil_Ziu__Vert",
+                "stats": null,
+                "titleId": "pubg",
+                "shardId": "kakao",
+                "patchVersion": "",
+                "banType": "Innocent",
+                "clanId": "clan.96147d243bf044eda155a5e04fe91173"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                },
+                "matches": {
+                    "data": [
+                        {
+                            "type": "match",
+                            "id": "9a591efe-0983-4c57-a981-017494c70833"
+                        },
+                        {
+                            "type": "match",
+                            "id": "2b1d4c1f-f6cb-46df-ba71-a51db1857364"
+                        },
+                        {
+                            "type": "match",
+                            "id": "365ea5c9-0cf2-4ce1-97b1-4490e4f7773c"
+                        },
+                        {
+                            "type": "match",
+                            "id": "9098a248-f606-4d3d-ac37-a58dd4dfee55"
+                        },
+                        {
+                            "type": "match",
+                            "id": "06f37681-6966-480b-a449-077d60e0b08d"
+                        },
+                        {
+                            "type": "match",
+                            "id": "bbee557e-a776-46c0-a0c7-1fbbfb5fac43"
+                        },
+                        {
+                            "type": "match",
+                            "id": "cc6e7b3e-2921-4895-9a82-5fd8b44d6978"
+                        },
+                        {
+                            "type": "match",
+                            "id": "3bd5f560-5641-4dd3-aa84-2d48e20a583c"
+                        },
+                        {
+                            "type": "match",
+                            "id": "f9423036-986b-46ac-a443-281d496bcc26"
+                        },
+                        {
+                            "type": "match",
+                            "id": "9272b97c-6695-46c9-b3c2-57f82b594afb"
+                        },
+                        {
+                            "type": "match",
+                            "id": "1d5eb505-5c0d-4257-b724-383807b48e16"
+                        },
+                        {
+                            "type": "match",
+                            "id": "8078ba63-9ed1-44c1-8f2a-15c13e8af881"
+                        },
+                        {
+                            "type": "match",
+                            "id": "f5d8fce8-9ba2-4195-bfef-c130c4cdf77e"
+                        },
+                        {
+                            "type": "match",
+                            "id": "d5af996d-9a74-4c6f-84a4-98a2087abeca"
+                        },
+                        {
+                            "type": "match",
+                            "id": "344a5d76-b62c-4590-869a-e0c34a7f143e"
+                        },
+                        {
+                            "type": "match",
+                            "id": "85de9e55-aded-4cc4-830c-96daee056788"
+                        },
+                        {
+                            "type": "match",
+                            "id": "33639b6e-841d-4b27-ba37-64e4a9da0842"
+                        },
+                        {
+                            "type": "match",
+                            "id": "7e0a6f53-65f1-4b60-9960-a0be6eb9a0b1"
+                        },
+                        {
+                            "type": "match",
+                            "id": "109a37c0-d06c-4c7e-b210-ab6faf4c9ef1"
+                        },
+                        {
+                            "type": "match",
+                            "id": "b6ea4466-6e1a-43d2-9b12-11e0e29b1424"
+                        },
+                        {
+                            "type": "match",
+                            "id": "a8a0ad00-2ae3-4a81-b22c-45a3d6486ea7"
+                        },
+                        {
+                            "type": "match",
+                            "id": "e64362f1-c0fd-4448-9fa8-990cdbd09500"
+                        },
+                        {
+                            "type": "match",
+                            "id": "90cc5f77-5d9a-4473-88b4-e55659120632"
+                        },
+                        {
+                            "type": "match",
+                            "id": "e6d426e9-84a8-4f8e-a000-27a3bf7f4194"
+                        },
+                        {
+                            "type": "match",
+                            "id": "b98a36a3-2d3c-448b-89f4-ca6377ec0cfd"
+                        },
+                        {
+                            "type": "match",
+                            "id": "d35b537d-ec7c-42f2-a060-963a38633995"
+                        },
+                        {
+                            "type": "match",
+                            "id": "345f59fe-afdd-436d-8515-ead437f0ff69"
+                        },
+                        {
+                            "type": "match",
+                            "id": "950ffe50-0d1c-43de-baee-f5da91b9b089"
+                        },
+                        {
+                            "type": "match",
+                            "id": "c4b8d729-3b1c-4086-b274-4fc334dc7278"
+                        },
+                        {
+                            "type": "match",
+                            "id": "3ec7bbf5-d936-48fc-850c-e8d79f5126c9"
+                        },
+                        {
+                            "type": "match",
+                            "id": "c4c6ef4d-c91a-4837-bf25-f779c2b8c8bb"
+                        },
+                        {
+                            "type": "match",
+                            "id": "de3281aa-2dd2-4e0d-8e74-3f90c784752e"
+                        },
+                        {
+                            "type": "match",
+                            "id": "eb826dbd-47b3-4ca0-9bb7-ee39c7b58275"
+                        },
+                        {
+                            "type": "match",
+                            "id": "fa20ad88-8a8c-4061-b377-12de8da8994b"
+                        },
+                        {
+                            "type": "match",
+                            "id": "6d1024a4-22b2-4f88-974d-2e74e7b7b04e"
+                        },
+                        {
+                            "type": "match",
+                            "id": "02ed3ff9-4cae-4306-bb05-ca0ce64698ac"
+                        },
+                        {
+                            "type": "match",
+                            "id": "6daf311f-e157-4b98-843a-209c04979396"
+                        },
+                        {
+                            "type": "match",
+                            "id": "b4b86b8c-b586-4ee7-a724-108765453f0c"
+                        },
+                        {
+                            "type": "match",
+                            "id": "082e683b-d8be-4c36-aa98-be27af84b671"
+                        },
+                        {
+                            "type": "match",
+                            "id": "ffde0b66-7515-4df0-857d-2408eb723fb4"
+                        },
+                        {
+                            "type": "match",
+                            "id": "30675780-87aa-4384-af25-88e2ab645e51"
+                        },
+                        {
+                            "type": "match",
+                            "id": "2e584e4e-6929-4f6b-bfa3-ac0e571299c1"
+                        },
+                        {
+                            "type": "match",
+                            "id": "34bf6c0c-207a-4d1a-91dc-963f9659056f"
+                        },
+                        {
+                            "type": "match",
+                            "id": "fbbdbeaa-d801-49ac-89e9-a030f8755e9b"
+                        },
+                        {
+                            "type": "match",
+                            "id": "00a14220-ee77-408b-9aad-c8e9a0347817"
+                        }
+                    ]
+                }
+            },
+            "links": {
+                "self": "https://api.pubg.com/shards/kakao/players/account.a164c65de7bd46f3a0101d4b8ad4a626",
+                "schema": ""
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.pubg.com/shards/kakao/players?filter[playerNames]=Lil_Ziu__Vert"
+    },
+    "meta": {}
+}

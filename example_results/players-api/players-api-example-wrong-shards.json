@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "type": "player",
+            "id": "account.2e66f4587ca7483fba08dc7eeea5c5cf",
+            "attributes": {
+                "patchVersion": "",
+                "banType": "Innocent",
+                "clanId": "clan.96147d243bf044eda155a5e04fe91173",
+                "name": "kakaochin9",
+                "stats": null,
+                "titleId": "pubg",
+                "shardId": "steam"
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                },
+                "matches": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "https://api.pubg.com/shards/steam/players/account.2e66f4587ca7483fba08dc7eeea5c5cf",
+                "schema": ""
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.pubg.com/shards/steam/players?filter[playerNames]=kakaochin9"
+    },
+    "meta": {}
+}

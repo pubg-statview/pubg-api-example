@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "type": "playerSeason",
+            "attributes": {
+                "gameModeStats": {
+                    "squad": {
+                        "assists": 60,
+                        "boosts": 304,
+                        "dBNOs": 136,
+                        "dailyKills": 4,
+                        "dailyWins": 0,
+                        "damageDealt": 21872.3,
+                        "days": 38,
+                        "headshotKills": 26,
+                        "heals": 316,
+                        "killPoints": 0,
+                        "kills": 138,
+                        "longestKill": 204.04346,
+                        "longestTimeSurvived": 1763,
+                        "losses": 180,
+                        "maxKillStreaks": 4,
+                        "mostSurvivalTime": 1763,
+                        "rankPoints": 0,
+                        "rankPointsTitle": "",
+                        "revives": 44,
+                        "rideDistance": 248725.25,
+                        "roadKills": 9,
+                        "roundMostKills": 8,
+                        "roundsPlayed": 182,
+                        "suicides": 8,
+                        "swimDistance": 172.82565,
+                        "teamKills": 4,
+                        "timeSurvived": 118418.73,
+                        "top10s": 49,
+                        "vehicleDestroys": 4,
+                        "walkDistance": 179713.48,
+                        "weaponsAcquired": 770,
+                        "weeklyKills": 5,
+                        "weeklyWins": 0,
+                        "winPoints": 0,
+                        "wins": 4
+                    }
+                },
+                "bestRankPoint": 0
+            },
+            "relationships": {
+                "matchesSolo": {
+                    "data": []
+                },
+                "matchesSoloFPP": {
+                    "data": []
+                },
+                "matchesDuo": {
+                    "data": []
+                },
+                "matchesDuoFPP": {
+                    "data": []
+                },
+                "matchesSquad": {
+                    "data": []
+                },
+                "matchesSquadFPP": {
+                    "data": []
+                },
+                "season": {
+                    "data": {
+                        "type": "season",
+                        "id": "lifetime"
+                    }
+                },
+                "player": {
+                    "data": {
+                        "type": "player",
+                        "id": "account.a164c65de7bd46f3a0101d4b8ad4a626"
+                    }
+                }
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.pubg.com/shards/kakao/seasons/lifetime/gameMode/squad/players?filter[playerIds]=account.a164c65de7bd46f3a0101d4b8ad4a626"
+    },
+    "meta": {}
+}

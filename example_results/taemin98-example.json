@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "type": "player",
+            "id": "account.aa28ebaf6f4f4b88a7bd4b415d22222b",
+            "attributes": {
+                "name": "taemin98",
+                "stats": null,
+                "titleId": "pubg",
+                "shardId": "kakao",
+                "patchVersion": "",
+                "banType": "Innocent",
+                "clanId": ""
+            },
+            "relationships": {
+                "assets": {
+                    "data": []
+                },
+                "matches": {
+                    "data": []
+                }
+            },
+            "links": {
+                "self": "https://api.pubg.com/shards/kakao/players/account.aa28ebaf6f4f4b88a7bd4b415d22222b",
+                "schema": ""
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.pubg.com/shards/kakao/players?filter[playerNames]=taemin98"
+    },
+    "meta": {}
+}

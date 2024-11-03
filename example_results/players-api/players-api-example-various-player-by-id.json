@@ -1,0 +1,8 @@
+{
+    "errors": [
+        {
+            "title": "Bad Request",
+            "detail": "unknown data - shardId: KAKAO"
+        }
+    ]
+}

@@ -1,0 +1,2673 @@
+{
+    "data": {
+        "type": "match",
+        "id": "90cc5f77-5d9a-4473-88b4-e55659120632",
+        "attributes": {
+            "tags": null,
+            "mapName": "Baltic_Main",
+            "createdAt": "2024-10-03T14:15:19Z",
+            "gameMode": "squad",
+            "titleId": "bluehole-pubg",
+            "shardId": "kakao",
+            "isCustomMatch": false,
+            "matchType": "competitive",
+            "seasonState": "progress",
+            "duration": 1916,
+            "stats": null
+        },
+        "relationships": {
+            "rosters": {
+                "data": [
+                    {
+                        "type": "roster",
+                        "id": "023aafb2-b7b2-469e-8c39-d419924a98fd"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "caa19cf6-8061-4b0b-aafe-a8f7c91ab69e"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "a9da96c9-b72e-4115-a334-3bc395d3dcff"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "dfc5d30b-4837-4b52-8f97-f6ec4b1517c1"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "b424e2d8-056e-4fa2-a160-b8b374f12001"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "879eb22f-049c-4fe6-8dc6-ca31f572b654"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "e3e701ee-3bf1-47e6-87a0-d89f8de62670"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "111c29d6-3c34-47de-bc08-08a5593f993e"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "4dc7190d-e46f-40e6-8b4b-b92ad5f0c2b7"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "f2974326-d9fc-4e92-aca0-be5633ebb4e5"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "4feb3f15-1999-4029-8b61-05aea7cefc81"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "8441ceff-a879-4c55-a420-63419c8b4824"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "cc61753a-b002-4197-a85f-f2fd3da91e1c"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "4edf2c64-3c85-4337-8a44-98a92676dcb7"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "d8eb91b2-58de-4d28-9efb-a95a65be5e89"
+                    },
+                    {
+                        "type": "roster",
+                        "id": "d95b05cf-0270-4f7b-8b94-699a4545a08c"
+                    }
+                ]
+            },
+            "assets": {
+                "data": [
+                    {
+                        "type": "asset",
+                        "id": "90953880-8196-11ef-a0ec-b2013f54c776"
+                    }
+                ]
+            }
+        },
+        "links": {
+            "self": "https://api.pubg.com/shards/kakao/matches/90cc5f77-5d9a-4473-88b4-e55659120632",
+            "schema": ""
+        }
+    },
+    "included": [
+        {
+            "type": "participant",
+            "id": "80581b79-19da-4c5f-8b1a-8677dca1cc0b",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 1,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 56,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "AXIS_B42",
+                    "playerId": "account.c5845f79ab0a402f899769596b7c63e5",
+                    "revives": 0,
+                    "rideDistance": 2689.3618,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 534,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 23.426075,
+                    "weaponsAcquired": 5,
+                    "winPlace": 15
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "7e9a59c5-a331-4ce5-82f0-5ad9003badfc",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 60,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Lil_Ziu__Vert",
+                    "playerId": "account.a164c65de7bd46f3a0101d4b8ad4a626",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 295,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 57.237755,
+                    "weaponsAcquired": 3,
+                    "winPlace": 16
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "a5f0971a-4e60-43bd-b98e-aac41f10bf7e",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 4,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 44,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "sexy_cow_01",
+                    "playerId": "account.8b8ca2783c93491084e5d80490d0cbd7",
+                    "revives": 0,
+                    "rideDistance": 4960.129,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 844,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 600.72833,
+                    "weaponsAcquired": 8,
+                    "winPlace": 11
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "009cdb9c-1661-4950-943a-2d18487fdf5c",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 5,
+                    "killPlace": 42,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "sexy_sanE",
+                    "playerId": "account.28becc6c6e6d40eba34674903cd7ffba",
+                    "revives": 0,
+                    "rideDistance": 5133.994,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 889,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 856.3427,
+                    "weaponsAcquired": 10,
+                    "winPlace": 11
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "6c296c02-6ade-47c8-94ae-03b5fb3f24ad",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 82.10251,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 27,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "RocKet-3-",
+                    "playerId": "account.590df039d881428f8bdb6d8fb81a3895",
+                    "revives": 0,
+                    "rideDistance": 1377.8236,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 467,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 354.33777,
+                    "weaponsAcquired": 3,
+                    "winPlace": 3
+                }
+            }
+        },
+        {
+            "type": "roster",
+            "id": "dfc5d30b-4837-4b52-8f97-f6ec4b1517c1",
+            "attributes": {
+                "stats": {
+                    "rank": 15,
+                    "teamId": 10
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "b78bb6f5-87e3-4b83-9486-602f57944f55"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "4473bdd6-4788-45b2-b0c1-65dcdcc10f28"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "80581b79-19da-4c5f-8b1a-8677dca1cc0b"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "36f84c1c-0d23-4742-ad45-789e31bc760b"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "roster",
+            "id": "4edf2c64-3c85-4337-8a44-98a92676dcb7",
+            "attributes": {
+                "stats": {
+                    "rank": 8,
+                    "teamId": 11
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "80377d49-4755-412a-bc25-ce9656c585b4"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "5562faae-2a1d-4713-b2ea-23b41f9dc44a"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "4eb863b8-89cd-4341-bdbc-a1c12f919a8c"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "ae40e29e-d224-458f-923d-96cecc1ff660"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "9880512a-02d5-4d4f-ae47-7f8bb43144e1",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 30,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Haegle",
+                    "playerId": "account.ddd86f804c5d4db9bcd3323dbabcc5ed",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 281,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 354.2586,
+                    "weaponsAcquired": 5,
+                    "winPlace": 4
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "3b28e5a6-35f4-4b40-8aa8-4852fc23a383",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 48,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Park_MinSeok",
+                    "playerId": "account.d0b049cae2554878b30187144fccfb7a",
+                    "revives": 0,
+                    "rideDistance": 1673.5227,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 549,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 517.2907,
+                    "weaponsAcquired": 8,
+                    "winPlace": 12
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "1cce4029-01ad-4136-b446-41bbd6a5c9df",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 45,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Ls_min_",
+                    "playerId": "account.f5943366cb4f4d06aad3154577225c2f",
+                    "revives": 0,
+                    "rideDistance": 3909.589,
+                    "roadKills": 0,
+                    "swimDistance": 48.9225,
+                    "teamKills": 0,
+                    "timeSurvived": 834,
+                    "vehicleDestroys": 1,
+                    "walkDistance": 950.0505,
+                    "weaponsAcquired": 6,
+                    "winPlace": 12
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "a6e60466-6ebd-42de-b4d6-82ca3c80b583",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 53,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "M2_wanbum",
+                    "playerId": "account.e273e9d004a94f2790eddb63c092a646",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 100,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 4.419638,
+                    "weaponsAcquired": 0,
+                    "winPlace": 14
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "a9da96c9-b72e-4115-a334-3bc395d3dcff",
+            "attributes": {
+                "stats": {
+                    "rank": 7,
+                    "teamId": 7
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "cb70ad29-cf4d-4e6a-a5e9-7f787fd69f75"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "021718b0-856b-433e-a4dd-062b1480c977"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "912e1c33-5528-434c-b667-5404f86f20a6"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "ca25deb7-d1f9-4cf3-8c94-d61b312012a5"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "roster",
+            "id": "b424e2d8-056e-4fa2-a160-b8b374f12001",
+            "attributes": {
+                "stats": {
+                    "rank": 1,
+                    "teamId": 8
+                },
+                "won": "true",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "20b0d72a-63d3-44e0-b48d-86f582b3d24d"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "379429c0-b558-464a-a33b-2d87fde5e9e3"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "970bfec3-21e3-46d3-becf-77b85c51bd36"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "9a12f778-8525-44fd-a4d1-27423e96a73f"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "4eb863b8-89cd-4341-bdbc-a1c12f919a8c",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 132.51212,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 3,
+                    "killPlace": 18,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 174.22516,
+                    "name": "DIC_BLUE",
+                    "playerId": "account.5f4e741d61b14b42bd817f68f91dcfd5",
+                    "revives": 0,
+                    "rideDistance": 3444.5483,
+                    "roadKills": 0,
+                    "swimDistance": 41.793873,
+                    "teamKills": 0,
+                    "timeSurvived": 1089,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 2202.1838,
+                    "weaponsAcquired": 12,
+                    "winPlace": 8
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "caa19cf6-8061-4b0b-aafe-a8f7c91ab69e",
+            "attributes": {
+                "won": "false",
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 13,
+                    "teamId": 6
+                }
+            },
+            "relationships": {
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "c3a6679b-58d3-471e-99e1-cd628a6f2f1e"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "981cff6c-cde7-495e-bfeb-9e5ff9db1726"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "c1541521-4d57-4c6e-b29c-5bf337792280"
+                        }
+                    ]
+                },
+                "team": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "379429c0-b558-464a-a33b-2d87fde5e9e3",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 2,
+                    "assists": 2,
+                    "boosts": 11,
+                    "damageDealt": 315.70544,
+                    "deathType": "alive",
+                    "headshotKills": 0,
+                    "heals": 6,
+                    "killPlace": 9,
+                    "killStreaks": 1,
+                    "kills": 2,
+                    "longestKill": 83.15787,
+                    "name": "5_56mm_skill",
+                    "playerId": "account.57475652769448ccaa426450a14b2643",
+                    "revives": 0,
+                    "rideDistance": 6622.392,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1916,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1883.5381,
+                    "weaponsAcquired": 11,
+                    "winPlace": 1
+                },
+                "actor": ""
+            }
+        },
+        {
+            "type": "participant",
+            "id": "c3fafc8b-66e6-40bc-888c-85c8e96ae9fa",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 83.82,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 1,
+                    "killPlace": 57,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "dydtjd0908",
+                    "playerId": "account.816d091773b940de84eefdbc2dc0e22a",
+                    "revives": 1,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 487,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 326.07755,
+                    "weaponsAcquired": 5,
+                    "winPlace": 16
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "8d4132dd-5915-4bfb-86f2-f7eee19a5b6b",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 1,
+                    "boosts": 7,
+                    "damageDealt": 231.18245,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 2,
+                    "killPlace": 13,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 115.548195,
+                    "name": "NEMO_INDlGO",
+                    "playerId": "account.54f60cff5a04416a9d3a006c3fe88b3b",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1205,
+                    "vehicleDestroys": 1,
+                    "walkDistance": 1246.3508,
+                    "weaponsAcquired": 6,
+                    "winPlace": 2
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "b764ef2e-5574-4056-9ec6-4fc4ae0f40d0",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 94.8,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 1,
+                    "killPlace": 59,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Chilseong42DA",
+                    "playerId": "account.3df7ccda72e44db19684387d0f7c4aac",
+                    "revives": 0,
+                    "rideDistance": 1548.4403,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 1,
+                    "timeSurvived": 337,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 196.9839,
+                    "weaponsAcquired": 5,
+                    "winPlace": 16
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "5562faae-2a1d-4713-b2ea-23b41f9dc44a",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 5,
+                    "damageDealt": 205.3143,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 1,
+                    "killPlace": 37,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "DIC_Pado",
+                    "playerId": "account.f5ec431e1b3b47238078bf8816f26392",
+                    "revives": 0,
+                    "rideDistance": 4314.5073,
+                    "roadKills": 0,
+                    "swimDistance": 43.410843,
+                    "teamKills": 0,
+                    "timeSurvived": 1089,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1901.927,
+                    "weaponsAcquired": 8,
+                    "winPlace": 8
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "c3a6679b-58d3-471e-99e1-cd628a6f2f1e",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 3,
+                    "damageDealt": 202.562,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 1,
+                    "killPlace": 23,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 2.6743162,
+                    "name": "Yangju_DA",
+                    "playerId": "account.5e5c477b1e264abf8453ba55918c384a",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 579,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 415.0128,
+                    "weaponsAcquired": 7,
+                    "winPlace": 13
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "20b0d72a-63d3-44e0-b48d-86f582b3d24d",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 3,
+                    "assists": 4,
+                    "boosts": 8,
+                    "damageDealt": 497.84583,
+                    "deathType": "alive",
+                    "headshotKills": 1,
+                    "heals": 5,
+                    "killPlace": 3,
+                    "killStreaks": 1,
+                    "kills": 4,
+                    "longestKill": 268.06183,
+                    "name": "Black_Adios",
+                    "playerId": "account.453c56d4569f4e6ebdbf49f7961097f7",
+                    "revives": 3,
+                    "rideDistance": 6618.741,
+                    "roadKills": 1,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1916,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 2034.5314,
+                    "weaponsAcquired": 12,
+                    "winPlace": 1
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "28c9a81a-4518-4ded-a13d-c89eaa5a142a",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 1,
+                    "boosts": 0,
+                    "damageDealt": 182.44107,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 20,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 67.42732,
+                    "name": "DDP_4ddo",
+                    "playerId": "account.7e5a8385bd26429d865f04dcd92abeb3",
+                    "revives": 0,
+                    "rideDistance": 2182.917,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 604,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 675.8809,
+                    "weaponsAcquired": 11,
+                    "winPlace": 9
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "7aff2132-8970-46b9-a848-556cae104d8a",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 100.00001,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 0,
+                    "killPlace": 24,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 14.372284,
+                    "name": "kakaochin9",
+                    "playerId": "account.2e66f4587ca7483fba08dc7eeea5c5cf",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 258,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 283.88248,
+                    "weaponsAcquired": 4,
+                    "winPlace": 16
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "2b316ab0-4e3d-4bcc-bba3-bf0d79e5676b",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 1,
+                    "boosts": 3,
+                    "damageDealt": 183.82436,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 14,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 53.807507,
+                    "name": "MOON94_",
+                    "playerId": "account.78e27aff8e3c4e4ca9a5765f1f5e5895",
+                    "revives": 1,
+                    "rideDistance": 1691.1311,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1128,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1988.2753,
+                    "weaponsAcquired": 9,
+                    "winPlace": 2
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "e3074c08-b8ed-4872-a564-d4d71784db32",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 6,
+                    "damageDealt": 187.74135,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 6,
+                    "killPlace": 16,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 14.654348,
+                    "name": "zzpatozz",
+                    "playerId": "account.a93fff96180b4826a1560264c547fb45",
+                    "revives": 1,
+                    "rideDistance": 7545.1562,
+                    "roadKills": 0,
+                    "swimDistance": 5.2823353,
+                    "teamKills": 0,
+                    "timeSurvived": 1162,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 2235.5747,
+                    "weaponsAcquired": 7,
+                    "winPlace": 5
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "ed933eff-0f1a-4936-af1f-13f2bcde699f",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 35,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "K_K-hyeok",
+                    "playerId": "account.6e7f66d9bb8e4f2abd954183980e8ccd",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 180,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 110.210556,
+                    "weaponsAcquired": 3,
+                    "winPlace": 6
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "e3e701ee-3bf1-47e6-87a0-d89f8de62670",
+            "attributes": {
+                "stats": {
+                    "rank": 9,
+                    "teamId": 9
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "28c9a81a-4518-4ded-a13d-c89eaa5a142a"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "96331d31-a8bd-4cd8-b6ea-6cdfc10b2e40"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "8e4fa3a6-b241-488c-9125-940be700fd40"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "081f7d10-9e68-4a22-b52b-1fa520d5e914"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "021718b0-856b-433e-a4dd-062b1480c977",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 77.399994,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 3,
+                    "killPlace": 47,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Big-ryuke",
+                    "playerId": "account.ba47b1fbc8564938af0132cc40a5b324",
+                    "revives": 0,
+                    "rideDistance": 2319.0422,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 811,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 965.532,
+                    "weaponsAcquired": 13,
+                    "winPlace": 12
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "ca25deb7-d1f9-4cf3-8c94-d61b312012a5",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 3,
+                    "damageDealt": 112.332985,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 21,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 4.484367,
+                    "name": "Big-Sum",
+                    "playerId": "account.fee40c1d80754b11a869b3c0785b7935",
+                    "revives": 0,
+                    "rideDistance": 2262.1318,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 824,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 887.29315,
+                    "weaponsAcquired": 7,
+                    "winPlace": 12
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "efa0fa92-069a-4d13-a59f-ef149e024a7c",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 1,
+                    "boosts": 5,
+                    "damageDealt": 150.4,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 9,
+                    "killPlace": 40,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "junbboz",
+                    "playerId": "account.4ff8ea7f67e641278f37544556aceae4",
+                    "revives": 1,
+                    "rideDistance": 3778.6816,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 899,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1044.1635,
+                    "weaponsAcquired": 8,
+                    "winPlace": 10
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "879eb22f-049c-4fe6-8dc6-ca31f572b654",
+            "attributes": {
+                "won": "false",
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 10,
+                    "teamId": 4
+                }
+            },
+            "relationships": {
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "f02ef392-8172-4f85-a3a6-c2fc47f7c304"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "efa0fa92-069a-4d13-a59f-ef149e024a7c"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "deea9cef-07c5-46df-9e9c-4b7f1daf2981"
+                        }
+                    ]
+                },
+                "team": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "78b25a2b-1c08-496b-a7e6-88bd0896204c",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 1,
+                    "damageDealt": 67.65,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 29,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "ppapqqAP",
+                    "playerId": "account.607ec910d9254154bf9583c517a652a2",
+                    "revives": 0,
+                    "rideDistance": 6917.9434,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1631,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1552.6736,
+                    "weaponsAcquired": 5,
+                    "winPlace": 4
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "981cff6c-cde7-495e-bfeb-9e5ff9db1726",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 1,
+                    "boosts": 1,
+                    "damageDealt": 38.7,
+                    "deathType": "byzone",
+                    "headshotKills": 0,
+                    "heals": 3,
+                    "killPlace": 50,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "NOVICE_DA",
+                    "playerId": "account.527378f8d9ee4b7ea0d29ce73fe50f6c",
+                    "revives": 1,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 572,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 453.7296,
+                    "weaponsAcquired": 6,
+                    "winPlace": 13
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "c1541521-4d57-4c6e-b29c-5bf337792280",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 2,
+                    "assists": 0,
+                    "boosts": 1,
+                    "damageDealt": 238.56345,
+                    "deathType": "byzone",
+                    "headshotKills": 1,
+                    "heals": 4,
+                    "killPlace": 22,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 53.56801,
+                    "name": "HARIBO_DA",
+                    "playerId": "account.79b64861399c457f93daf4b330dd1c75",
+                    "revives": 0,
+                    "rideDistance": 38.19523,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 812,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1226.0135,
+                    "weaponsAcquired": 5,
+                    "winPlace": 13
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "912e1c33-5528-434c-b667-5404f86f20a6",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 3,
+                    "assists": 0,
+                    "boosts": 8,
+                    "damageDealt": 605.4986,
+                    "deathType": "byplayer",
+                    "headshotKills": 3,
+                    "heals": 3,
+                    "killPlace": 5,
+                    "killStreaks": 1,
+                    "kills": 4,
+                    "longestKill": 311.9502,
+                    "name": "ZIZONMYEONGGEON",
+                    "playerId": "account.4f537a0c11f2447291d30e7b3c619fc3",
+                    "revives": 0,
+                    "rideDistance": 2732.6765,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1059,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1064.5869,
+                    "weaponsAcquired": 17,
+                    "winPlace": 7
+                },
+                "actor": ""
+            }
+        },
+        {
+            "type": "participant",
+            "id": "f02ef392-8172-4f85-a3a6-c2fc47f7c304",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 41,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "MYEONG_GGO",
+                    "playerId": "account.318a2ca61982406a9f1a7ab91d9e4f64",
+                    "revives": 0,
+                    "rideDistance": 0.31113964,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 120,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 53.010635,
+                    "weaponsAcquired": 0,
+                    "winPlace": 10
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "19f8ae75-b90f-4965-b2ed-39e35fbb00e9",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 3,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 4,
+                    "killPlace": 51,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "ll_JouJou_ll",
+                    "playerId": "account.b96543fc763e4ee99457b87feefe54f5",
+                    "revives": 0,
+                    "rideDistance": 4841.622,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 729,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 384.6154,
+                    "weaponsAcquired": 8,
+                    "winPlace": 14
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "9b61cc24-fc08-4004-9707-66d0b77e05c0",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 6,
+                    "killPlace": 34,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "kongjikan",
+                    "playerId": "account.182160020abc4bc6a7837dc540a993d3",
+                    "revives": 0,
+                    "rideDistance": 6954.6143,
+                    "roadKills": 0,
+                    "swimDistance": 72.55521,
+                    "teamKills": 0,
+                    "timeSurvived": 1162,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 2269.2625,
+                    "weaponsAcquired": 7,
+                    "winPlace": 5
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "36f84c1c-0d23-4742-ad45-789e31bc760b",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 2,
+                    "assists": 0,
+                    "boosts": 3,
+                    "damageDealt": 200.00002,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 0,
+                    "killPlace": 12,
+                    "killStreaks": 2,
+                    "kills": 2,
+                    "longestKill": 15.093392,
+                    "name": "OSYARE",
+                    "playerId": "account.64a677613036432aaf09ce106b19dc46",
+                    "revives": 1,
+                    "rideDistance": 2815.128,
+                    "roadKills": 0,
+                    "swimDistance": 60.55674,
+                    "teamKills": 0,
+                    "timeSurvived": 679,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 889.7946,
+                    "weaponsAcquired": 10,
+                    "winPlace": 15
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "80377d49-4755-412a-bc25-ce9656c585b4",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 1,
+                    "boosts": 3,
+                    "damageDealt": 100,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 1,
+                    "killPlace": 19,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 22.766157,
+                    "name": "DIC_nami",
+                    "playerId": "account.f28205fd0ab945e6a6d82eab499d10f3",
+                    "revives": 0,
+                    "rideDistance": 3503.2268,
+                    "roadKills": 0,
+                    "swimDistance": 34.05864,
+                    "teamKills": 0,
+                    "timeSurvived": 998,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1902.3157,
+                    "weaponsAcquired": 8,
+                    "winPlace": 8
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "d8eb91b2-58de-4d28-9efb-a95a65be5e89",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 6,
+                    "teamId": 13
+                },
+                "won": "false"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "ed933eff-0f1a-4936-af1f-13f2bcde699f"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "6f34995a-471e-43d9-933b-d3ed028a7b8a"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "fb4da0a7-514c-464e-9d90-bc9fd6b9914c"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "43e11aef-bacd-4340-b731-10ba78bd4207"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "b78bb6f5-87e3-4b83-9486-602f57944f55",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 55,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Ami_Dan2",
+                    "playerId": "account.9257090dc93a42709e899fa62f0e2c96",
+                    "revives": 0,
+                    "rideDistance": 2703.3545,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 547,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 225.68428,
+                    "weaponsAcquired": 8,
+                    "winPlace": 15
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "081f7d10-9e68-4a22-b52b-1fa520d5e914",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 1,
+                    "boosts": 2,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 38,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "DDP_KING",
+                    "playerId": "account.a078ccfa386e4743b6d3c90039f73e41",
+                    "revives": 0,
+                    "rideDistance": 2477.065,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 595,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 519.64044,
+                    "weaponsAcquired": 9,
+                    "winPlace": 9
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "deea9cef-07c5-46df-9e9c-4b7f1daf2981",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 3,
+                    "assists": 0,
+                    "boosts": 5,
+                    "damageDealt": 122.20023,
+                    "deathType": "byplayer",
+                    "headshotKills": 2,
+                    "heals": 8,
+                    "killPlace": 11,
+                    "killStreaks": 2,
+                    "kills": 2,
+                    "longestKill": 72.1155,
+                    "name": "Rookie_ever",
+                    "playerId": "account.cc654d842c164b3797bf6d8a75b5c8f6",
+                    "revives": 1,
+                    "rideDistance": 3689.6965,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 899,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1017.95917,
+                    "weaponsAcquired": 11,
+                    "winPlace": 10
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "ef88c8a9-f919-4c11-919f-43360629ac95",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 2,
+                    "damageDealt": 119.21871,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 1,
+                    "killPlace": 46,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "DBjaso",
+                    "playerId": "account.b5e7019b330547e8aaacbf174938af7f",
+                    "revives": 0,
+                    "rideDistance": 2063.134,
+                    "roadKills": 0,
+                    "swimDistance": 79.83653,
+                    "teamKills": 0,
+                    "timeSurvived": 834,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1504.1143,
+                    "weaponsAcquired": 8,
+                    "winPlace": 12
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "e5c79a50-1ca8-411b-a4e6-19251250299e",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 2,
+                    "boosts": 6,
+                    "damageDealt": 147.97,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 8,
+                    "killPlace": 33,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "DailyPC",
+                    "playerId": "account.8453253e9000424cb2f4983cda0a258c",
+                    "revives": 0,
+                    "rideDistance": 7063.971,
+                    "roadKills": 0,
+                    "swimDistance": 8.442689,
+                    "teamKills": 0,
+                    "timeSurvived": 1162,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 2316.3787,
+                    "weaponsAcquired": 8,
+                    "winPlace": 5
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "6f34995a-471e-43d9-933b-d3ed028a7b8a",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 3,
+                    "assists": 2,
+                    "boosts": 6,
+                    "damageDealt": 315.9285,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 28,
+                    "killPlace": 10,
+                    "killStreaks": 1,
+                    "kills": 2,
+                    "longestKill": 41.697983,
+                    "name": "Mr_ParkSW",
+                    "playerId": "account.000db514bbd940f7ba25e46c8e20586a",
+                    "revives": 0,
+                    "rideDistance": 4697.6377,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 916,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 657.9624,
+                    "weaponsAcquired": 9,
+                    "winPlace": 6
+                },
+                "actor": ""
+            }
+        },
+        {
+            "type": "roster",
+            "id": "f2974326-d9fc-4e92-aca0-be5633ebb4e5",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 12,
+                    "teamId": 3
+                },
+                "won": "false"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "0c2ba374-09c8-4293-8db4-e0c0fd322b4d"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "3b28e5a6-35f4-4b40-8aa8-4852fc23a383"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "ef88c8a9-f919-4c11-919f-43360629ac95"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "1cce4029-01ad-4136-b446-41bbd6a5c9df"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "roster",
+            "id": "4feb3f15-1999-4029-8b61-05aea7cefc81",
+            "attributes": {
+                "stats": {
+                    "rank": 14,
+                    "teamId": 1
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "a6e60466-6ebd-42de-b4d6-82ca3c80b583"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "19f8ae75-b90f-4965-b2ed-39e35fbb00e9"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "4e861d1c-5a28-4c5a-943c-73572fc06336"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "b764ef2e-5574-4056-9ec6-4fc4ae0f40d0"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "cb70ad29-cf4d-4e6a-a5e9-7f787fd69f75",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 5,
+                    "assists": 0,
+                    "boosts": 6,
+                    "damageDealt": 591.6034,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 3,
+                    "killPlace": 4,
+                    "killStreaks": 2,
+                    "kills": 4,
+                    "longestKill": 92.990814,
+                    "name": "whsskaktdlTsh",
+                    "playerId": "account.6be9f7e6701046b7acf40850b2558178",
+                    "revives": 1,
+                    "rideDistance": 3051.2888,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1114,
+                    "vehicleDestroys": 1,
+                    "walkDistance": 1039.6034,
+                    "weaponsAcquired": 10,
+                    "winPlace": 7
+                },
+                "actor": ""
+            }
+        },
+        {
+            "type": "participant",
+            "id": "8e4fa3a6-b241-488c-9125-940be700fd40",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 1,
+                    "boosts": 0,
+                    "damageDealt": 25.93259,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 39,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "NCR_888",
+                    "playerId": "account.88c5905785854fc5a9961b193dd40b9c",
+                    "revives": 0,
+                    "rideDistance": 1409.8643,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 586,
+                    "vehicleDestroys": 1,
+                    "walkDistance": 483.58774,
+                    "weaponsAcquired": 7,
+                    "winPlace": 9
+                },
+                "actor": ""
+            }
+        },
+        {
+            "type": "participant",
+            "id": "ad9a8186-0d2c-4e3a-abfd-dbceb1e69159",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 5,
+                    "damageDealt": 126.095856,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 1,
+                    "killPlace": 25,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "DAJIN-MANEUL",
+                    "playerId": "account.14b68173fad146fca9e699e0fc22eabd",
+                    "revives": 0,
+                    "rideDistance": 1607.1613,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1081,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1670.6036,
+                    "weaponsAcquired": 9,
+                    "winPlace": 2
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "b87acad8-d6f3-4430-8b66-ab39c8e6a78f",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 6,
+                    "damageDealt": 162.5932,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 43,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "buldak-bokuem",
+                    "playerId": "account.26da86a689a84894bc4bb090c0a92efa",
+                    "revives": 0,
+                    "rideDistance": 5266.1274,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 889,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 668.202,
+                    "weaponsAcquired": 8,
+                    "winPlace": 11
+                }
+            }
+        },
+        {
+            "type": "roster",
+            "id": "023aafb2-b7b2-469e-8c39-d419924a98fd",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 4,
+                    "teamId": 2
+                },
+                "won": "false"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "29066eaa-83a3-4313-8556-454fb05191f3"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "9880512a-02d5-4d4f-ae47-7f8bb43144e1"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "e93b1dc7-467a-4232-8e72-5a963f4e1134"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "78b25a2b-1c08-496b-a7e6-88bd0896204c"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "9a12f778-8525-44fd-a4d1-27423e96a73f",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 2,
+                    "assists": 2,
+                    "boosts": 4,
+                    "damageDealt": 300.0174,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 0,
+                    "killPlace": 6,
+                    "killStreaks": 1,
+                    "kills": 3,
+                    "longestKill": 43.214638,
+                    "name": "A-_-GUCCIM",
+                    "playerId": "account.d92bce7269514cbd8254d255b1abcd9f",
+                    "revives": 0,
+                    "rideDistance": 7473.859,
+                    "roadKills": 1,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1158,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 645.9151,
+                    "weaponsAcquired": 6,
+                    "winPlace": 1
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "0c2ba374-09c8-4293-8db4-e0c0fd322b4d",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 49,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "hwiwon123",
+                    "playerId": "account.c4b70e5d1df040c2afa45724f8cf3dc9",
+                    "revives": 0,
+                    "rideDistance": 1503.7325,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 531,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 853.9799,
+                    "weaponsAcquired": 7,
+                    "winPlace": 12
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "4e861d1c-5a28-4c5a-943c-73572fc06336",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 52,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Audi---TT",
+                    "playerId": "account.2b2152abb52b48dcb8455ab7c4feebfa",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 347,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 125.73916,
+                    "weaponsAcquired": 2,
+                    "winPlace": 14
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "a9e19ef3-4d29-4310-8a85-9dbd5c6a7337",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 10,
+                    "damageDealt": 100,
+                    "deathType": "byzone",
+                    "headshotKills": 0,
+                    "heals": 3,
+                    "killPlace": 15,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 30.80107,
+                    "name": "mankaiman",
+                    "playerId": "account.437dbb6e928b447c9be13e9ea96d32c1",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1900,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1488.3899,
+                    "weaponsAcquired": 8,
+                    "winPlace": 3
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "4473bdd6-4788-45b2-b0c1-65dcdcc10f28",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 2,
+                    "boosts": 3,
+                    "damageDealt": 100,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 54,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "MK_HARU",
+                    "playerId": "account.cabab1c82c03494a9c22e7e55524c3ef",
+                    "revives": 0,
+                    "rideDistance": 2487.686,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 655,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 771.0298,
+                    "weaponsAcquired": 6,
+                    "winPlace": 15
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "96331d31-a8bd-4cd8-b6ea-6cdfc10b2e40",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 5,
+                    "assists": 1,
+                    "boosts": 4,
+                    "damageDealt": 390.44977,
+                    "deathType": "byplayer",
+                    "headshotKills": 2,
+                    "heals": 0,
+                    "killPlace": 2,
+                    "killStreaks": 2,
+                    "kills": 6,
+                    "longestKill": 60.63545,
+                    "name": "DDP_GEUN",
+                    "playerId": "account.e3cd220706be4700aed8de3ce6a6c550",
+                    "revives": 0,
+                    "rideDistance": 1869.0659,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 922,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 945.4416,
+                    "weaponsAcquired": 13,
+                    "winPlace": 9
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "d95b05cf-0270-4f7b-8b94-699a4545a08c",
+            "attributes": {
+                "stats": {
+                    "rank": 3,
+                    "teamId": 5
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "a9e19ef3-4d29-4310-8a85-9dbd5c6a7337"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "220d1bee-e9e0-463e-acb7-becd59b7cc66"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "44c680c1-5272-4ae3-ae7f-516fe3800426"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "6c296c02-6ade-47c8-94ae-03b5fb3f24ad"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "e93b1dc7-467a-4232-8e72-5a963f4e1134",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 32,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "royal112",
+                    "playerId": "account.3fc65ad8983d44c2ae60880a05f56081",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 134,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 80.126335,
+                    "weaponsAcquired": 2,
+                    "winPlace": 4
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "fb4da0a7-514c-464e-9d90-bc9fd6b9914c",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 1,
+                    "boosts": 6,
+                    "damageDealt": 285.30807,
+                    "deathType": "suicide",
+                    "headshotKills": 0,
+                    "heals": 19,
+                    "killPlace": 17,
+                    "killStreaks": 1,
+                    "kills": 1,
+                    "longestKill": 38.78061,
+                    "name": "pikkachu_4501",
+                    "playerId": "account.3d50cf3b210f4c528f39553e73d6c108",
+                    "revives": 2,
+                    "rideDistance": 5985.6045,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1123,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1061.1848,
+                    "weaponsAcquired": 9,
+                    "winPlace": 6
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "43e11aef-bacd-4340-b731-10ba78bd4207",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 2,
+                    "assists": 0,
+                    "boosts": 3,
+                    "damageDealt": 223.97565,
+                    "deathType": "byplayer",
+                    "headshotKills": 2,
+                    "heals": 13,
+                    "killPlace": 8,
+                    "killStreaks": 1,
+                    "kills": 3,
+                    "longestKill": 26.649809,
+                    "name": "SARANGHAEPUBAO",
+                    "playerId": "account.89b9f8655ec64c169f9a8a1f5322b6b8",
+                    "revives": 0,
+                    "rideDistance": 5166.3467,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 982,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 707.54913,
+                    "weaponsAcquired": 11,
+                    "winPlace": 6
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "cc61753a-b002-4197-a85f-f2fd3da91e1c",
+            "attributes": {
+                "stats": {
+                    "rank": 11,
+                    "teamId": 12
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "b87acad8-d6f3-4430-8b66-ab39c8e6a78f"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "a5f0971a-4e60-43bd-b98e-aac41f10bf7e"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "009cdb9c-1661-4950-943a-2d18487fdf5c"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "881910fe-3b53-4dca-b56a-37820e234d95",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 1,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 302.8525,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 1,
+                    "killPlace": 58,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "Dont1ike",
+                    "playerId": "account.a028088f9ff841bba04f27bf45bc6250",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 441,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 204.78618,
+                    "weaponsAcquired": 1,
+                    "winPlace": 16
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "3d799ac1-f1bf-4adf-a74c-c4d69dd5e77d",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 3,
+                    "assists": 2,
+                    "boosts": 11,
+                    "damageDealt": 674.9018,
+                    "deathType": "byplayer",
+                    "headshotKills": 1,
+                    "heals": 5,
+                    "killPlace": 7,
+                    "killStreaks": 1,
+                    "kills": 3,
+                    "longestKill": 41.05771,
+                    "name": "M_A_N_D_0_0",
+                    "playerId": "account.895660c40be14c3788b2defe5ef9c724",
+                    "revives": 0,
+                    "rideDistance": 399.89847,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1913,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1581.0972,
+                    "weaponsAcquired": 12,
+                    "winPlace": 2
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "ae40e29e-d224-458f-923d-96cecc1ff660",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 6,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 36,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "DIC_YEON",
+                    "playerId": "account.da991a148c464ff3a61541ec75a9fbdb",
+                    "revives": 0,
+                    "rideDistance": 3886.0613,
+                    "roadKills": 0,
+                    "swimDistance": 37.04939,
+                    "teamKills": 0,
+                    "timeSurvived": 1089,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 1261.296,
+                    "weaponsAcquired": 11,
+                    "winPlace": 8
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "participant",
+            "id": "44c680c1-5272-4ae3-ae7f-516fe3800426",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 28,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "HAK_MOS",
+                    "playerId": "account.2b5c9581606349299ebab03ccde31b2b",
+                    "revives": 0,
+                    "rideDistance": 1895.8569,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 430,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 344.54236,
+                    "weaponsAcquired": 7,
+                    "winPlace": 3
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "8441ceff-a879-4c55-a420-63419c8b4824",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 5,
+                    "teamId": 15
+                },
+                "won": "false"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "9b61cc24-fc08-4004-9707-66d0b77e05c0"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "e3074c08-b8ed-4872-a564-d4d71784db32"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "e5c79a50-1ca8-411b-a4e6-19251250299e"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "29066eaa-83a3-4313-8556-454fb05191f3",
+            "attributes": {
+                "actor": "",
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 0,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 0,
+                    "killPlace": 31,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "borobodong",
+                    "playerId": "account.dfb6baed590241b0a1bc224ef14de254",
+                    "revives": 0,
+                    "rideDistance": 0,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 196,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 186.50273,
+                    "weaponsAcquired": 3,
+                    "winPlace": 4
+                }
+            }
+        },
+        {
+            "type": "participant",
+            "id": "970bfec3-21e3-46d3-becf-77b85c51bd36",
+            "attributes": {
+                "shardId": "kakao",
+                "stats": {
+                    "DBNOs": 3,
+                    "assists": 1,
+                    "boosts": 16,
+                    "damageDealt": 409.25363,
+                    "deathType": "alive",
+                    "headshotKills": 1,
+                    "heals": 3,
+                    "killPlace": 1,
+                    "killStreaks": 2,
+                    "kills": 7,
+                    "longestKill": 302.8712,
+                    "name": "Bin2___",
+                    "playerId": "account.4d5dd0b4756a40ada25bd31dc5ff9050",
+                    "revives": 0,
+                    "rideDistance": 6940.4014,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1916,
+                    "vehicleDestroys": 1,
+                    "walkDistance": 1900.2897,
+                    "weaponsAcquired": 9,
+                    "winPlace": 1
+                },
+                "actor": ""
+            }
+        },
+        {
+            "type": "participant",
+            "id": "220d1bee-e9e0-463e-acb7-becd59b7cc66",
+            "attributes": {
+                "stats": {
+                    "DBNOs": 0,
+                    "assists": 0,
+                    "boosts": 8,
+                    "damageDealt": 0,
+                    "deathType": "byplayer",
+                    "headshotKills": 0,
+                    "heals": 3,
+                    "killPlace": 26,
+                    "killStreaks": 0,
+                    "kills": 0,
+                    "longestKill": 0,
+                    "name": "ParkTump",
+                    "playerId": "account.e9064a4fe18146f08632b9ddf5a62b40",
+                    "revives": 0,
+                    "rideDistance": 1884.8097,
+                    "roadKills": 0,
+                    "swimDistance": 0,
+                    "teamKills": 0,
+                    "timeSurvived": 1789,
+                    "vehicleDestroys": 0,
+                    "walkDistance": 2286.7256,
+                    "weaponsAcquired": 8,
+                    "winPlace": 3
+                },
+                "actor": "",
+                "shardId": "kakao"
+            }
+        },
+        {
+            "type": "roster",
+            "id": "111c29d6-3c34-47de-bc08-08a5593f993e",
+            "attributes": {
+                "stats": {
+                    "rank": 16,
+                    "teamId": 16
+                },
+                "won": "false",
+                "shardId": "kakao"
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "881910fe-3b53-4dca-b56a-37820e234d95"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "c3fafc8b-66e6-40bc-888c-85c8e96ae9fa"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "7e9a59c5-a331-4ce5-82f0-5ad9003badfc"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "7aff2132-8970-46b9-a848-556cae104d8a"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "roster",
+            "id": "4dc7190d-e46f-40e6-8b4b-b92ad5f0c2b7",
+            "attributes": {
+                "won": "false",
+                "shardId": "kakao",
+                "stats": {
+                    "rank": 2,
+                    "teamId": 14
+                }
+            },
+            "relationships": {
+                "team": {
+                    "data": null
+                },
+                "participants": {
+                    "data": [
+                        {
+                            "type": "participant",
+                            "id": "ad9a8186-0d2c-4e3a-abfd-dbceb1e69159"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "3d799ac1-f1bf-4adf-a74c-c4d69dd5e77d"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "2b316ab0-4e3d-4bcc-bba3-bf0d79e5676b"
+                        },
+                        {
+                            "type": "participant",
+                            "id": "8d4132dd-5915-4bfb-86f2-f7eee19a5b6b"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "type": "asset",
+            "id": "90953880-8196-11ef-a0ec-b2013f54c776",
+            "attributes": {
+                "name": "telemetry",
+                "description": "",
+                "createdAt": "2024-10-03T14:48:34Z",
+                "URL": "https://telemetry-cdn.pubg.com/bluehole-pubg/kakao/2024/10/03/14/48/90953880-8196-11ef-a0ec-b2013f54c776-telemetry.json"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api-origin.pubg-odapi.pubg.io/shards/kakao/matches/90cc5f77-5d9a-4473-88b4-e55659120632"
+    },
+    "meta": {}
+}
